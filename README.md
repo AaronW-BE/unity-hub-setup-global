@@ -10,3 +10,11 @@
     * Mac
         [Link](https://github.com/AaronW-BE/unity-hub-setup-global/releases/download/3.12.0.0/UnityHubSetup.dmg)
 ---
+
+
+### How to check if UnityHub is the international version on Windows
+
+First of all, right click exe file on explorer window, and navigate tab to `digital signature`, then you can see the word like "Unity Technologies"
+
+![screenshot](./assets/image.png)
+
